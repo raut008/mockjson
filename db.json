@@ -1,0 +1,411 @@
+[
+    {
+        "id": 1,
+        "Category": "Electronics",
+        "Brand": "Philips",
+        "Name": "Trimmer-x",
+        "Price": "1000",
+        "Description": "Fugiat commodo qui aute labore nisi deserunt incididunt officia enim aliquip."
+    },
+    {
+        "id": 2,
+        "Category": "Electronics",
+        "Brand": "Syska",
+        "Name": "Trimmer-z",
+        "Price": "1200",
+        "Description": "loremEt dolore cillum consequat Lorem enim eu incididunt quis laborum enim nostrud."
+    },
+    {
+        "id": 3,
+        "Category": "Electronics",
+        "Brand": "OnePlus",
+        "Name": "OnePlus 8 pro",
+        "Price": "40,000",
+        "Description": "Dolor ullamco sint cupidatat est quis adipisicing cupidatat enim cupidatat consequat nisi ex magna."
+    },
+    {
+        "id": 4,
+        "Category": "Electronics",
+        "Brand": "Xiaomi",
+        "Name": "Redime Note 9 pro",
+        "Price": "20,000",
+        "Description": "Occaecat magna tempor elit minim minim eu do consequat qui consectetur duis reprehenderit."
+    },
+    {
+        "id": 5,
+        "Category": "Electronics",
+        "Brand": "Apple",
+        "Name": "IPhone SE",
+        "Price": "50,000",
+        "Description": "Veniam eu enim nostrud qui elit amet sunt ad laboris consectetur."
+    },
+    {
+        "id": 6,
+        "Category": "Electronics",
+        "Brand": "Nikon",
+        "Name": "Extra",
+        "Price": "10,000",
+        "Description": "Nostrud sit ex dolor magna in qui quis nulla dolore culpa."
+    },
+    {
+        "id": 7,
+        "Category": "Electronics",
+        "Brand": "Canon",
+        "Name": "Zoom",
+        "Price": "15,000",
+        "Description": "Incididunt id adipisicing deserunt excepteur proident."
+    },
+    {
+        "id": 8,
+        "Category": "Electronics",
+        "Brand": "Dell",
+        "Name": "Inspiron",
+        "Price": "50,000",
+        "Description": "Labore quis culpa nulla cupidatat occaecat."
+    },
+    {
+        "id": 9,
+        "Category": "Electronics",
+        "Brand": "Lenovo",
+        "Name": "Ideapad",
+        "Price": "45,000",
+        "Description": "Do est esse eiusmod magna ad dolor qui ipsum amet."
+    },
+    {
+        "id": 10,
+        "Category": "Electronics",
+        "Brand": "Apple",
+        "Name": "Macbook",
+        "Price": "80,000",
+        "Description": "Laboris irure commodo nostrud amet laboris nisi consequat eu adipisicing pariatur."
+    },
+    {
+        "id": 11,
+        "Category": "TV and Appliances",
+        "Brand": "Samsung",
+        "Name": "OLED TV",
+        "Price": "1,50,000",
+        "Description": "Sint ipsum adipisicing enim sit enim dolore."
+    },
+    {
+        "id": 12,
+        "Category": "Home Appliances",
+        "Brand": "Sony",
+        "Name": "Bravia",
+        "Price": "1,00,000",
+        "Description": "Ad duis irure eu sunt ex exercitation mollit fugiat."
+    },
+    {
+        "id": 13,
+        "Category": "Home Appliances",
+        "Brand": "Panasonic",
+        "Name": "Ultra HD",
+        "Price": "90,000",
+        "Description": "Deserunt proident laborum reprehenderit dolor nisi in."
+    },
+    {
+        "id": 14,
+        "Category": "Home Appliances",
+        "Brand": "Whirlpool",
+        "Name": "Washing Machine-1",
+        "Price": "30,000",
+        "Description": "Qui cupidatat consectetur Lorem et sunt."
+    },
+    {
+        "id": 15,
+        "Category": "Home Appliances",
+        "Brand": "Samsung",
+        "Name": "Washing-Machine-2",
+        "Price": "20,000",
+        "Description": "Aute excepteur anim incididunt culpa dolor aliqua aute."
+    },
+    {
+        "id": 16,
+        "Category": "Home Appliances",
+        "Brand": "LG",
+        "Name": "Refrigerator-1",
+        "Price": "40,000",
+        "Description": "Eu officia sunt eu deserunt culpa."
+    },
+    {
+        "id": 17,
+        "Category": "Home Appliances",
+        "Brand": "Samsung",
+        "Name": "Refrigerator-2",
+        "Price": "35,000",
+        "Description": "Consectetur consectetur ad ea exercitation excepteur laborum anim laboris deserunt anim."
+    },
+    {
+        "id": 18,
+        "Category": "Home Appliances",
+        "Brand": "Philips",
+        "Name": "Refrigerator-3",
+        "Price": "20,000",
+        "Description": "Anim ex do in incididunt enim ullamco enim."
+    },
+    {
+        "id": 19,
+        "Category": "Home Appliances",
+        "Brand": "Prestige",
+        "Name": "Oven-1",
+        "Price": "15,000",
+        "Description": "Sit incididunt adipisicing sunt proident anim excepteur qui consequat elit."
+    },
+    {
+        "id": 20,
+        "Category": "Home Appliances",
+        "Brand": "Onida",
+        "Name": "Oven-2",
+        "Price": "10,000",
+        "Description": "Ut ad sit ut sit pariatur mollit eu sunt esse labore consectetur."
+    },
+    {
+        "id": 21,
+        "Category": "Men and Women",
+        "Brand": "Nike",
+        "Name": "Air-Max",
+        "Price": "8000",
+        "Description": "Minim ea incididunt irure eiusmod ipsum eu mollit deserunt sunt ad aliquip dolor."
+    },
+    {
+        "id": 22,
+        "Category": "Men and Women",
+        "Brand": "Paragon",
+        "Name": "Office chapal",
+        "Price": "1000",
+        "Description": "Ea commodo amet adipisicing laboris enim ea aute amet fugiat."
+    },
+    {
+        "id": 23,
+        "Category": "Men and Women",
+        "Brand": "Wrogn",
+        "Name": "Red T-shirt",
+        "Price": "500",
+        "Description": "Nisi voluptate velit deserunt veniam tempor commodo do irure est."
+    },
+    {
+        "id": 24,
+        "Category": "Men and Women",
+        "Brand": "Raymond",
+        "Name": "Suit",
+        "Price": "3000",
+        "Description": "Culpa aute esse non et irure aliqua esse commodo."
+    },
+    {
+        "id": 25,
+        "Category": "Men and Women",
+        "Brand": "Manyavar",
+        "Name": "Kurta",
+        "Price": "2000",
+        "Description": "Nostrud laborum consequat nulla do qui id velit velit minim velit officia tempor."
+    },
+    {
+        "id": 26,
+        "Category": "Men and Women",
+        "Brand": "Rupa",
+        "Name": "Underwear",
+        "Price": "50",
+        "Description": "Deserunt eiusmod pariatur ex non eu adipisicing sit laborum in officia."
+    },
+    {
+        "id": 27,
+        "Category": "Men and Women",
+        "Brand": "Amul",
+        "Name": "Macho",
+        "Price": "30",
+        "Description": "Non in pariatur consectetur reprehenderit id ea cillum ea anim minim."
+    },
+    {
+        "id": 28,
+        "Category": "Men and Women",
+        "Brand": "Lyra",
+        "Name": "Bra",
+        "Price": "100",
+        "Description": "Id nostrud ea culpa nulla."
+    },
+    {
+        "id": 29,
+        "Category": "Men and Women",
+        "Brand": "Calvein-Klein",
+        "Name": "Panties",
+        "Price": "50",
+        "Description": "Est ut ullamco consequat elit enim nulla adipisicing quis enim amet."
+    },
+    {
+        "id": 30,
+        "Category": "Men and Women",
+        "Brand": "Manisha",
+        "Name": "Kurti",
+        "Price": "300",
+        "Description": "Adipisicing excepteur aliqua laboris excepteur in."
+    },
+    {
+        "id": 31,
+        "Category": "Health and Fitness",
+        "Brand": "Nivia",
+        "Name": "Storm-Football",
+        "Price": "500",
+        "Description": "Mollit nostrud sit ut incididunt."
+    },
+    {
+        "id": 32,
+        "Category": "Health and Fitness",
+        "Brand": "Adidas",
+        "Name": "Jabulani",
+        "Price": "2000",
+        "Description": "Officia exercitation Lorem laborum consectetur occaecat duis duis minim fugiat non."
+    },
+    {
+        "id": 33,
+        "Category": "Health and Fitness",
+        "Brand": "Nike",
+        "Name": "Predator-studs",
+        "Price": "5000",
+        "Description": "Ad aliqua pariatur sint magna exercitation eu exercitation cupidatat commodo ipsum ut laborum eiusmod."
+    },
+    {
+        "id": 34,
+        "Category": "Health and Fitness",
+        "Brand": "Nike",
+        "Name": "Bottom Wear",
+        "Price": "100",
+        "Description": "Ipsum ut velit duis in."
+    },
+    {
+        "id": 35,
+        "Category": "Health and Fitness",
+        "Brand": "Reebok",
+        "Name": "Bottom Wear",
+        "Price": "200",
+        "Description": "Veniam est do commodo enim proident excepteur anim laboris est elit proident mollit excepteur nostrud."
+    },
+    {
+        "id": 36,
+        "Category": "Health and Fitness",
+        "Brand": "SG",
+        "Name": "Cricket bat",
+        "Price": "600",
+        "Description": "Excepteur aliquip officia dolor aliquip anim consectetur sit fugiat incididunt aute qui ex occaecat excepteur."
+    },
+    {
+        "id": 37,
+        "Category": "Health and Fitness",
+        "Brand": "Gray-Nicolas",
+        "Name": "Cricket bat",
+        "Price": "800",
+        "Description": "Lorem nostrud ipsum ea mollit consequat quis esse."
+    },
+    {
+        "id": 38,
+        "Category": "Health and Fitness",
+        "Brand": "Wildcraft",
+        "Name": "Hiking bag",
+        "Price": "2500",
+        "Description": "Anim amet sit sunt ad est eiusmod in veniam esse laborum ipsum."
+    },
+    {
+        "id": 39,
+        "Category": "Health and Fitness",
+        "Brand": "Skybags",
+        "Name": "Hiking bag",
+        "Price": "3500",
+        "Description": "Officia nulla duis incididunt enim aute non."
+    },
+    {
+        "id": 40,
+        "Category": "Health and Fitness",
+        "Brand": "Jeerai",
+        "Name": "Dumbells-10kg",
+        "Price": "5000",
+        "Description": "Consequat amet sint cupidatat Lorem."
+    },
+    {
+        "id": 41,
+        "Category": "Home and Furniture",
+        "Brand": "Philips",
+        "Name": "Digital-Clock",
+        "Price": "1000",
+        "Description": "Et nisi irure mollit sunt."
+    },
+    {
+        "id": 42,
+        "Category": "Home and Furniture",
+        "Brand": "Ajanta",
+        "Name": "Wall-clock",
+        "Price": "200",
+        "Description": "Eiusmod adipisicing nisi velit quis enim labore dolore excepteur labore nulla sint."
+    },
+    {
+        "id": 43,
+        "Category": "Home and Furniture",
+        "Brand": "Richards",
+        "Name": "Stove",
+        "Price": "3000",
+        "Description": "Irure ex culpa consectetur veniam veniam occaecat anim nostrud ea sunt culpa sint."
+    },
+    {
+        "id": 44,
+        "Category": "Home and Furniture",
+        "Brand": "Prestige",
+        "Name": "Stove",
+        "Price": "5000",
+        "Description": "Exercitation quis quis irure elit deserunt."
+    },
+    {
+        "id": 45,
+        "Category": "Home and Furniture",
+        "Brand": "Nilkamal",
+        "Name": "Cupboard",
+        "Price": "10,000",
+        "Description": "Elit cupidatat occaecat est consequat nostrud elit laborum voluptate adipisicing Lorem labore."
+    },
+    {
+        "id": 46,
+        "Category": "Home and Furniture",
+        "Brand": "Perfect homes",
+        "Name": "Sofa",
+        "Price": "15,000",
+        "Description": "Aliquip ut aliquip mollit consequat Lorem do sint sint proident eiusmod ad nisi aliqua."
+    },
+    {
+        "id": 47,
+        "Category": "Home and Furniture",
+        "Brand": "Furnitech",
+        "Name": "Sofa",
+        "Price": "12,000",
+        "Description": "Consequat reprehenderit elit id nulla consequat do cupidatat excepteur ex Lorem sit adipisicing nisi esse."
+    },
+    {
+        "id": 48,
+        "Category": "Home and Furniture",
+        "Brand": "Decor Home",
+        "Name": "Bedsheet",
+        "Price": "2000",
+        "Description": "In laborum irure pariatur esse dolore in velit ad."
+    },
+    {
+        "id": 49,
+        "Category": "Home and Furniture",
+        "Brand": "Tanish",
+        "Name": "Bedsheet",
+        "Price": "1500",
+        "Description": "Ex qui dolore laboris anim cupidatat incididunt amet cupidatat Lorem."
+    },
+    {
+        "id": 50,
+        "Category": "Home and Furniture",
+        "Brand": "Tupperware",
+        "Name": "Water bottle-1L",
+        "Price": "500",
+        "Description": "Ullamco do ex elit eu."
+    },
+    {
+        "id": 51,
+        "Category": "Home and Furniture",
+        "Brand": "Tupperware",
+        "Name": "Water bottle-2L",
+        "Price": "800",
+        "Description": "Ullamco do ex elit eu."
+    }
+
+]
